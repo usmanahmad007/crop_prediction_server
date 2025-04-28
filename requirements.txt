@@ -1,4 +1,6 @@
-fastapi
-uvicorn
+Flask
+pandas
+scikit-learn
 huggingface_hub
 joblib
+gunicorn
